@@ -33,4 +33,3 @@ export default class ListItem implements Item {
         this._checked = checked
     }
 }
-
